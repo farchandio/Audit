@@ -1,0 +1,5 @@
+{
+    "emulator.androidColdBoot": true,
+    "emulator.emulatorPathWindows": "C:\\Users\\surya\\AppData\\Local\\Android\\Sdk\\emulator",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
